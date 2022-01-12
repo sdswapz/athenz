@@ -70,11 +70,11 @@
 
   <properties>
     <jetty.version>9.4.14.v20181114</jetty.version>
-    <jersey.version>2.27</jersey.version>
-    <jackson.version>2.9.7</jackson.version>
+    <jersey.version>2.33</jersey.version>
+    <jackson.version>2.9.10.8</jackson.version>
     <maven-surefire-plugin.version>2.22.0</maven-surefire-plugin.version>
     <rdl.version>1.5.1</rdl.version>
-    <bouncycastle.version>1.60</bouncycastle.version>
+    <bouncycastle.version>1.66</bouncycastle.version>
     <aws.version>1.11.455</aws.version>
     <guava.version>27.0.1-jre</guava.version>
     <logback.version>1.2.3</logback.version>
